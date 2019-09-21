@@ -15,7 +15,7 @@ public class HospAnn {
 		System.out.println("Default Cons.....");
 	}
 	
-	public HospAnn(@Value("7878787")long number) {
+	public HospAnn(@Value("888")long number) {
 		this.number = number;
 	}
 	
